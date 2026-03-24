@@ -1,0 +1,2 @@
+Model,Validation Accuracy,Validation Precision,Validation Recall,Validation F1,Test Accuracy,Test Precision,Test Recall,Test F1
+TF-IDF + Logistic Regression,0.8913623033857638,0.8785456420835482,0.9082911223673688,0.8931707956481846,0.8968,0.8872982821447163,0.9090666666666667,0.8980505795574288

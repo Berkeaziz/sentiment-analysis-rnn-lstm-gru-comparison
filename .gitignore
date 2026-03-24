@@ -1,0 +1,5 @@
+/data*
+/.venv*
+/results/gru_model.keras
+/results/lstm_model.keras
+/results/rnn_model.keras
